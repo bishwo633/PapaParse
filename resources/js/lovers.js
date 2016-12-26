@@ -72,5 +72,11 @@ var peopleLovePapa = [
 		name: "Novel.js",
 		description: "is a text adventure framework that uses Papa Parse to enable user-friendly translations.",
 		quote: "Papa saves countless hours of work and makes reading large CSV files so easy!"
+	},
+	{
+		link: "http://www.growbydata.com/data-service.php",
+		name: "GrowByData - Data Services",
+		description: "uses Papa Parse to import and export files of any configuration dynamically.",
+		quote: "Papa has been a time-saver and the GrowByData team is completely in love with Papa!"
 	}
 ];
